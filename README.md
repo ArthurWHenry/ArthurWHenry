@@ -1,16 +1,13 @@
-### Hi there 👋
+## Introduction
 
-<!--
-**ArthurWHenry/ArthurWHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, world 👋
 
-Here are some ideas to get you started:
+I'm currently a computer science student at the University of Central Florida (UCF). My current focus has been learning JavaScript and TypeScript as best to build meaningful projects with both React and Next.js. I've grown passionate about both technologies because they have provided me with a lot of freedom and creativity. Hopefully my public repositories reflect a little bit of that.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+[![Arthur's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arthurwhenry&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/arthur-henry-0458a1104/)
