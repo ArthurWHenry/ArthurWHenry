@@ -2,7 +2,9 @@
 
 ### Hello, world 👋
 
-I'm currently a computer science student at the University of Central Florida (UCF). My current focus has been learning JavaScript and TypeScript as best to build meaningful projects with both React and Next.js. I've grown passionate about both technologies because they have provided me with a lot of freedom and creativity. Hopefully my public repositories reflect a little bit of that.
+I'm a Software Engineer based out in Maitland, Florida. I primarily use JavaScript, TypeScript, CSS, and a little bit of SQL through work and projects. As of right now, the framework I've been using is React–along with TailwindCSS, to make applications look inviting.
+
+I've always had an appreciation for web development and the endless amount of creativity you can put into it. Soon this passion grew into developing and designing applications. It's always been a space for me to explore that creativity while still being technical.
 
 ## Stats
 
