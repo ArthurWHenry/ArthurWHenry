@@ -12,7 +12,7 @@ I've always had an appreciation for web development and the endless amount of cr
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwhenry)](https://github.com/arthurwhenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwhenry&theme=dark)](https://github.com/arthurwhenry/github-readme-stats)
 
 ## Links
 
